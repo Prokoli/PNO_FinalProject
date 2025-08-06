@@ -70,9 +70,11 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
+Home and Explore Page:
 <img src='https://i.imgur.com/n29dIN1.gif' title='Home/Explore Page Walkthrough' width='' alt='Home/Explore Page Walkthrough' />
+Create Post/Thread:
 <img src='https://i.imgur.com/7CebQRI.gif' title='Create Post Walkthrough' width='' alt='Create Post  Walkthrough' />
+Update/Delete Post:
 <img src='https://i.imgur.com/dbkR5EB.gif' title='Update/Delete Post Walkthrough' width='' alt='Update/Delete Post  Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
