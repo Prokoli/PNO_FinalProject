@@ -4,7 +4,7 @@ Submitted by: Praise Okoli
 
 This web app: Promotes community building within the type 4C hair community by providing a forum with access to discussion threads based on topic. The topics include #washday, #products, #protectivestyles, and more! Users can create accounts to track their threads, create and edit thread postings, and interact with other users. 
 
-Time spent: 17 hours spent in total
+Time spent: 18 hours spent in total
 
 ## Required Features
 
@@ -71,9 +71,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='' title='Home/Explore Page Walkthrough' width='' alt='Home/Explore Page Walkthrough' />
-<img src='' title='Create Post Walkthrough' width='' alt='Create Post  Walkthrough' />
-<img src='' title='Update/Delete Post Walkthrough' width='' alt='Update/Delete Post  Walkthrough' />
+<img src='https://i.imgur.com/n29dIN1.gif' title='Home/Explore Page Walkthrough' width='' alt='Home/Explore Page Walkthrough' />
+<img src='https://i.imgur.com/7CebQRI.gif' title='Create Post Walkthrough' width='' alt='Create Post  Walkthrough' />
+<img src='https://i.imgur.com/dbkR5EB.gif' title='Update/Delete Post Walkthrough' width='' alt='Update/Delete Post  Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
