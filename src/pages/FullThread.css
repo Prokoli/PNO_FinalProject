@@ -1,0 +1,22 @@
+.card-header-custom {
+    background-color: #3f2009;
+    /* brown */
+    color: white;
+    /* optional for better contrast */
+}
+
+.accordion-header .accordion-button {
+    background-color: #3f2009 !important;
+    color: white;
+}
+
+.accordion-header .accordion-button:not(.collapsed),
+.accordion-header .accordion-button:focus {
+    box-shadow: none;
+    /* remove blue outline */
+}
+
+
+.accordion-body {
+    background-color: #3f2009;
+}

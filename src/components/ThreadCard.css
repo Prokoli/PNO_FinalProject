@@ -1,0 +1,19 @@
+.card,
+.placeholder {
+    color: rgb(2, 2, 2);
+    background-color: rgb(138, 100, 17);
+}
+
+.btn-success {
+    background-color: #8B4513 !important;
+    /* SaddleBrown */
+    border-color: #8B4513 !important;
+    color: white !important;
+    margin-left: 6px;
+}
+
+.btn-success:hover,
+.btn-success:focus {
+    background-color: #A0522D !important;
+    border-color: #A0522D !important;
+}

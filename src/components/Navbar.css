@@ -1,0 +1,17 @@
+.navbar .nav-link {
+    color: #FFFFFF;
+    transition: color 0.3s ease;
+    font-size: 1.1rem;
+}
+
+.navbar .nav-link:hover {
+    color: #CCCCCC;
+}
+
+.navbar-brand img {
+    border: 2px solid #FFFFFF;
+}
+
+.navbar-toggler {
+    border-color: #FFFFFF;
+}
