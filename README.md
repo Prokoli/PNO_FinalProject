@@ -84,10 +84,10 @@ GIF created with ...
 
 ## Notes
 Pseudo-authentication occurs within the local host domain; users are assigned a random ID that's sent to Supabase for storage. Future improvements include
-[] implementing real authentication via Google and Supabase or Firebase
-[] fixing the upload image feature for updating posts (currently, the app doesn't store the image when it's uploaded via Update Post)
-[] adding Profile and Account pages to hold all threads created by that user, and settings so the user can tailor their experience 
-[] deployment!
+* [ ] implementing real authentication via Google and Supabase or Firebase
+* [ ] fixing the upload image feature for updating posts (currently, the app doesn't store the image when it's uploaded via Update Post)
+* [ ] adding Profile and Account pages to hold all threads created by that user, and settings so the user can tailor their experience 
+* [ ] deployment!
 
 ## License
 
